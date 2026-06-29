@@ -1,0 +1,10 @@
+﻿{
+    "name":  "NeoForge Adventure",
+    "minecraftVersion":  "1.21.1",
+    "loader":  "NeoForge",
+    "loaderVersion":  "21.1.x",
+    "serverAddress":  "play.twoj-serwer.pl",
+    "files":  [
+
+              ]
+}
