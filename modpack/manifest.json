@@ -1,10 +1,1119 @@
 ﻿{
-    "name":  "NeoForge Adventure",
+    "name":  "NeoForge Survival",
     "minecraftVersion":  "1.21.1",
     "loader":  "NeoForge",
     "loaderVersion":  "21.1.x",
     "serverAddress":  "play.twoj-serwer.pl",
     "files":  [
-
+                  {
+                      "path":  "mods/[1.21.1] SecurityCraft v1.10.2.1.jar",
+                      "sha256":  "75ac9e73c60caf58df7069f167dbacc00a640e1418207dff654f56a5fdb5f229",
+                      "size":  5193371,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/%5B1.21.1%5D%20SecurityCraft%20v1.10.2.1.jar"
+                  },
+                  {
+                      "path":  "mods/[Neoforge]ctov-3.6.3.jar",
+                      "sha256":  "4815b19b83541f09cba556e222612bc5ddcc31f7c4ba2198f4b4d6376cca8b2e",
+                      "size":  7139609,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/%5BNeoforge%5Dctov-3.6.3.jar"
+                  },
+                  {
+                      "path":  "mods/[neoforge]imst-2.2.1c.jar",
+                      "sha256":  "2916306ffa47291d7f8655a6b69e73bc334ecf60e3d5ff61378a5c3c13371732",
+                      "size":  460128,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/%5Bneoforge%5Dimst-2.2.1c.jar"
+                  },
+                  {
+                      "path":  "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+                      "sha256":  "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0",
+                      "size":  1078697,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/advancednetherite-neoforge-2.3.1-1.21.1.jar",
+                      "sha256":  "ae0ec0a574d4ebd0644b37913c65a6f92ea20a0fe7e3d3799fd872cfe01a278a",
+                      "size":  520611,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/advancednetherite-neoforge-2.3.1-1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/AI-Improvements-1.21-0.5.3.jar",
+                      "sha256":  "795618769ff1ac782750be9e8faaf3e3d212f1687c3baab98c1282a98a63a41e",
+                      "size":  28984,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/AI-Improvements-1.21-0.5.3.jar"
+                  },
+                  {
+                      "path":  "mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+                      "sha256":  "07ee6fd24d8427ee079e2e376095b0ac92450b0153331f1575f8195e2c9cf90b",
+                      "size":  84811632,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/amendments-neoforge-1.21-2.1.3.jar",
+                      "sha256":  "8119ba573bb47f0c69d894895286e790ed9c87f596bb93463b96077aff83560c",
+                      "size":  1156947,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/amendments-neoforge-1.21-2.1.3.jar"
+                  },
+                  {
+                      "path":  "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+                      "sha256":  "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df",
+                      "size":  75804,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/appleskin-neoforge-mc1.21-3.0.9.jar"
+                  },
+                  {
+                      "path":  "mods/architectury-13.0.8-neoforge.jar",
+                      "sha256":  "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee",
+                      "size":  584004,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/architectury-13.0.8-neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/athena-neoforge-1.21.1-4.0.6.jar",
+                      "sha256":  "43699885bbce3343916d4c5c4940cf0e3f9f6f02fdeb46e8655e121b42282ec5",
+                      "size":  99944,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/athena-neoforge-1.21.1-4.0.6.jar"
+                  },
+                  {
+                      "path":  "mods/attributefix-neoforge-1.21.1-21.1.3.jar",
+                      "sha256":  "b2b20f3d44e824071284c14de3f4d3323d420e1c450040b339a5c37d2c382ad4",
+                      "size":  19809,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/attributefix-neoforge-1.21.1-21.1.3.jar"
+                  },
+                  {
+                      "path":  "mods/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+                      "sha256":  "98addfb68b1e92d4f40ef37cdea8f46217bf7188991cc7347a3fc510a410f1e5",
+                      "size":  74380,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/baguettelib-1.21.1-NeoForge-2.0.3.jar"
+                  },
+                  {
+                      "path":  "mods/balm-neoforge-1.21.1-21.0.59.jar",
+                      "sha256":  "b6e9959269120b11351f0430ebbfc15fddb655592b9fe85dd829503e43654cac",
+                      "size":  735066,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/balm-neoforge-1.21.1-21.0.59.jar"
+                  },
+                  {
+                      "path":  "mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+                      "sha256":  "60b548bef04a2f0e1da686ee9035c2e3d4ed0459a17d7a4836fc26af6de6b60e",
+                      "size":  98641,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar"
+                  },
+                  {
+                      "path":  "mods/betterarcheology-neoforge-1.21.1-1.3.4.jar",
+                      "sha256":  "e0b5b95dde1aed957b8727339340e0b6aaaca22702f2ac27ff7616ad6a1037c4",
+                      "size":  3106705,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/betterarcheology-neoforge-1.21.1-1.3.4.jar"
+                  },
+                  {
+                      "path":  "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+                      "sha256":  "1a97b6ca5c81b3b18d653f403929908e3b48bb1bdb6e8bd8559f89cf0294dc26",
+                      "size":  481646,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/BetterF3-11.0.3-NeoForge-1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/BetterThirdPerson-neoforge-1.9.0.jar",
+                      "sha256":  "2e74076c67a78f16d696ec9ad1e3138d6ed1418544b297dbe3f4ad9cd791d059",
+                      "size":  60941,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/BetterThirdPerson-neoforge-1.9.0.jar"
+                  },
+                  {
+                      "path":  "mods/biolith-neoforge-3.0.12.jar",
+                      "sha256":  "8bf6d3fca6f23275a01d3eb5a13c2f87b4c90e3712fe754a0cb5f4ff07021a90",
+                      "size":  218252,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/biolith-neoforge-3.0.12.jar"
+                  },
+                  {
+                      "path":  "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
+                      "sha256":  "5f3c8d752c2e0464eca8c9527d8ffe498129fd37a2fe86a266b64c98371763b1",
+                      "size":  22338156,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar"
+                  },
+                  {
+                      "path":  "mods/boatiview-neoforge-0.0.6-1.21.1.jar",
+                      "sha256":  "c08f1c2188ab79b4f4085a72d98796d3c59fc3f836c6ce1f3755ea5b8928c77c",
+                      "size":  52795,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/boatiview-neoforge-0.0.6-1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
+                      "sha256":  "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76",
+                      "size":  328813,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/bookshelf-neoforge-1.21.1-21.1.81.jar"
+                  },
+                  {
+                      "path":  "mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.112.jar",
+                      "sha256":  "961e80018496036a47421617c9891bb58c71c13ad82211f557a81d0a14579ffd",
+                      "size":  3650582,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.112.jar"
+                  },
+                  {
+                      "path":  "mods/chat_heads-0.15.2-neoforge-1.21.jar",
+                      "sha256":  "cc1bde9cdb709232b7d07bdae693355a774a34d08029d82ef6d9c9f17981d36b",
+                      "size":  89325,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/chat_heads-0.15.2-neoforge-1.21.jar"
+                  },
+                  {
+                      "path":  "mods/chefsdelight-1.0.5-neoforge-1.21.1.jar",
+                      "sha256":  "9fd7920a4cced00443c107c1ac05002b35543734c76e05ef1d1ebf5f17ce99c8",
+                      "size":  95250,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/chefsdelight-1.0.5-neoforge-1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/chipped-neoforge-1.21.1-4.0.2.jar",
+                      "sha256":  "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291",
+                      "size":  15020578,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/chipped-neoforge-1.21.1-4.0.2.jar"
+                  },
+                  {
+                      "path":  "mods/chisel-neoforge-2.0.1+mc1.21.1.jar",
+                      "sha256":  "66ae1f65374a7409af069d5ccde63a338d1754494555b3b5a00f1e862e50e2a6",
+                      "size":  8268524,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/chisel-neoforge-2.0.1%2Bmc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/cloth-config-15.0.140-neoforge.jar",
+                      "sha256":  "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
+                      "size":  1163890,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/cloth-config-15.0.140-neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+                      "sha256":  "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e",
+                      "size":  18382,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/Clumps-neoforge-1.21.1-19.0.0.1.jar"
+                  },
+                  {
+                      "path":  "mods/cluttered-[NeoForge]-3.0.3-1.21.1.jar",
+                      "sha256":  "c1649584e178ce04b2ca923f4afcd5640f67cea7a122dc166f9a773db8683e8f",
+                      "size":  5404861,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/cluttered-%5BNeoForge%5D-3.0.3-1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/colorwheel-neoforge-1.2.9+mc1.21.1.jar",
+                      "sha256":  "9259e4adb5b091fe2bd60e57be7f0b2ec9872f1c97ff6d2ed3bb2a9a5ec6407f",
+                      "size":  398004,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/colorwheel-neoforge-1.2.9%2Bmc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/comforts-neoforge-9.0.5+1.21.1.jar",
+                      "sha256":  "6b0fd35a1349107e08a45539adbde9683bb203febc43a3305f6fc4ac73e59615",
+                      "size":  422658,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/comforts-neoforge-9.0.5%2B1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/connectedglass-1.1.14-neoforge-mc1.21.jar",
+                      "sha256":  "e5b2a1cd8ef1b8a49a322aeccfc5cd9a53d8303613b9f30718f12a1e525d49fe",
+                      "size":  819976,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/connectedglass-1.1.14-neoforge-mc1.21.jar"
+                  },
+                  {
+                      "path":  "mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+                      "sha256":  "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0",
+                      "size":  77555,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/Controlling-neoforge-1.21.1-19.0.5.jar"
+                  },
+                  {
+                      "path":  "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
+                      "sha256":  "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1",
+                      "size":  1791747,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/coroutil-neoforge-1.21.0-1.3.8.jar",
+                      "sha256":  "9b32bcf2c793d33b93b5d4739c0dc4b64231025c7dc5fe40732b66d7cf4b2826",
+                      "size":  63981,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/coroutil-neoforge-1.21.0-1.3.8.jar"
+                  },
+                  {
+                      "path":  "mods/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
+                      "sha256":  "43c1ac104381748439f92ea426207b86f93bc641f1d6cfebc08be4a563d91260",
+                      "size":  24683,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar"
+                  },
+                  {
+                      "path":  "mods/corpse-neoforge-1.21.1-1.1.13.jar",
+                      "sha256":  "80d984f0a17d968220129cc58edd5c9f28a5f61a84ec67dcc41228a46dfa4bb1",
+                      "size":  253694,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/corpse-neoforge-1.21.1-1.1.13.jar"
+                  },
+                  {
+                      "path":  "mods/CosmeticArmours - 1.5.3.1 - 1.21.1 - NeoForge.jar",
+                      "sha256":  "098c3cfc7c88d508c8956fcbcbd72121cf90e102d13d77c4e3a3387924eeba03",
+                      "size":  17478086,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/CosmeticArmours%20-%201.5.3.1%20-%201.21.1%20-%20NeoForge.jar"
+                  },
+                  {
+                      "path":  "mods/crabbersdelight-1.21.1-1.2.6.jar",
+                      "sha256":  "dde14329fa2ee127a76c27af4dad2608c3405d3639260478f765b5d819f69dc4",
+                      "size":  634794,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/crabbersdelight-1.21.1-1.2.6.jar"
+                  },
+                  {
+                      "path":  "mods/Create Encased-1.21.1-1.8.1-ht2.jar",
+                      "sha256":  "9249d3262a7c7318ac2766879344d46056c9d3e46409b3358027b1037a6cfeac",
+                      "size":  2574764,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/Create%20Encased-1.21.1-1.8.1-ht2.jar"
+                  },
+                  {
+                      "path":  "mods/create_connected-1.3.2-mc1.21.1.jar",
+                      "sha256":  "90bdceac63cb0ebd5e51351e22136182b996512edef937d0635d2857b0a3f24b",
+                      "size":  6779410,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/create_connected-1.3.2-mc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/create_hypertube-0.4.0-SABLE-COMPAT-NEOFORGE.jar",
+                      "sha256":  "3789261215f4fd6d1a60137a828931fa11e56dc29c84d4032763adb5105c6e3b",
+                      "size":  438363,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/create_hypertube-0.4.0-SABLE-COMPAT-NEOFORGE.jar"
+                  },
+                  {
+                      "path":  "mods/create_jetpack-forge-5.1.2.jar",
+                      "sha256":  "9fe5a681ea841ce9dc02e7132cd360e1c3e75314905b4ef1493e7548265d0985",
+                      "size":  481239,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/create_jetpack-forge-5.1.2.jar"
+                  },
+                  {
+                      "path":  "mods/create-1.21.1-6.0.10.jar",
+                      "sha256":  "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a",
+                      "size":  19123767,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/create-1.21.1-6.0.10.jar"
+                  },
+                  {
+                      "path":  "mods/createaddition-1.6.0.jar",
+                      "sha256":  "41876c3780b70365a1848994d146a73423cc19fbe86485885795d9e7d855e7e9",
+                      "size":  1661802,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/createaddition-1.6.0.jar"
+                  },
+                  {
+                      "path":  "mods/createbetterfps-1.21.1-1.1.4.jar",
+                      "sha256":  "f0080f5cb186bf9f785dc5510babab94d97adc7918952cff780d2c5fadf2ac9a",
+                      "size":  26547,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/createbetterfps-1.21.1-1.1.4.jar"
+                  },
+                  {
+                      "path":  "mods/createdeco-2.1.3.jar",
+                      "sha256":  "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e",
+                      "size":  3328498,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/createdeco-2.1.3.jar"
+                  },
+                  {
+                      "path":  "mods/createdieselgenerators-1.21.1-1.3.14.jar",
+                      "sha256":  "038d7f9173fe7f792b77054ab98e9543e04630825610a05b036329d30d02329c",
+                      "size":  3143118,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/createdieselgenerators-1.21.1-1.3.14.jar"
+                  },
+                  {
+                      "path":  "mods/CreateDragonsPlus-1.11.2b.jar",
+                      "sha256":  "9b15e464465a639de9ef5a935ae9fd94ea545904517d1428bc784a4012e0a1e2",
+                      "size":  1006723,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/CreateDragonsPlus-1.11.2b.jar"
+                  },
+                  {
+                      "path":  "mods/create-enchantment-industry-2.4.2.jar",
+                      "sha256":  "81f192bb53888e01f87a82eaac2f261c93715f2221dbcf5d8a8d414f912f75ef",
+                      "size":  1283517,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/create-enchantment-industry-2.4.2.jar"
+                  },
+                  {
+                      "path":  "mods/creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
+                      "sha256":  "f08ff14c72ff15de9b3c87200ad06115ff48c73ac21458e038d6e137e162a907",
+                      "size":  180932,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/creategoggles-1.21.1-6.1.1-%5BNEOFORGE%5D.jar"
+                  },
+                  {
+                      "path":  "mods/create-new-age-1.2.0+neoforge-mc1.21.1.jar",
+                      "sha256":  "a217ea21ccc8364e99d86777e519436bc7c94516df9737ad0103047e48a44717",
+                      "size":  1644485,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/create-new-age-1.2.0%2Bneoforge-mc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+                      "sha256":  "bd4164b9ec8e21775e34a99a8d21e5280ee8cc6d3bd003a1b32dc3ada59ae887",
+                      "size":  1218640,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/cristellib-neoforge-1.21.1-3.1.7.jar",
+                      "sha256":  "11e05dbc97bd3fe1790bd6361747240e314c1dbf40b590ea20cc691dc8396c38",
+                      "size":  583525,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/cristellib-neoforge-1.21.1-3.1.7.jar"
+                  },
+                  {
+                      "path":  "mods/crittersandcompanions-neoforge-1.21.1-2.4.1.jar",
+                      "sha256":  "b696a700bf7a927bd04a839b9dda2c1d6770177eb4c9bd8a943e84f6d5d499d1",
+                      "size":  1802417,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/crittersandcompanions-neoforge-1.21.1-2.4.1.jar"
+                  },
+                  {
+                      "path":  "mods/cryonicconfig-neoforge-1.0.0+mc1.21.11.jar",
+                      "sha256":  "a33856fd37d787b3bd4103d5c045e669c2f4274efb8d10f1ee0a759911a21e2c",
+                      "size":  133851,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/cryonicconfig-neoforge-1.0.0%2Bmc1.21.11.jar"
+                  },
+                  {
+                      "path":  "mods/curios-neoforge-9.5.1+1.21.1.jar",
+                      "sha256":  "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
+                      "size":  410690,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/curios-neoforge-9.5.1%2B1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/cwb-neoforge-3.0.0+mc1.21.jar",
+                      "sha256":  "be7144647bc160858e659f6793fcce993914443b9256c2df0369b1c616a2a5d4",
+                      "size":  81843,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/cwb-neoforge-3.0.0%2Bmc1.21.jar"
+                  },
+                  {
+                      "path":  "mods/DnDesires-1.21.1-2.3a-BETA.jar",
+                      "sha256":  "d3f7f2384e8327c81671f2d48df15a0bba98ef04b727a430079cfc9145a7a379",
+                      "size":  1249099,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/DnDesires-1.21.1-2.3a-BETA.jar"
+                  },
+                  {
+                      "path":  "mods/dtbop-3.4.0.jar",
+                      "sha256":  "a4daa50c3bcd78258ce2b4cb56d435c61c8e5ac2a66ff046facc83fe3a485da9",
+                      "size":  411408,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/dtbop-3.4.0.jar"
+                  },
+                  {
+                      "path":  "mods/DungeonsArise-1.21.1-2.1.68-release.jar",
+                      "sha256":  "7eee1eca7e3b2c6c1bede055934f391ae2e8349ffe33e106f451176d2cfcf0e4",
+                      "size":  11842679,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/DungeonsArise-1.21.1-2.1.68-release.jar"
+                  },
+                  {
+                      "path":  "mods/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
+                      "sha256":  "549040fbd81d1b33aea38681109685e86d63985785246a831112c4ba5740d2df",
+                      "size":  244981,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+                      "sha256":  "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e",
+                      "size":  220193,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/dynamictrees-neoforge-1.21.1-1.7.2.jar",
+                      "sha256":  "ef94737b99e68a0b489b56f901fcc71a3ac8e7a16e3a22ac8413c5f66df566f0",
+                      "size":  3399913,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/dynamictrees-neoforge-1.21.1-1.7.2.jar"
+                  },
+                  {
+                      "path":  "mods/elevatorid-neoforge-1.21.1-1.11.4.jar",
+                      "sha256":  "c3908b14549addaa18951c473d2d1f67a3df61bcf5599c6031e71ca5685bf14c",
+                      "size":  191190,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/elevatorid-neoforge-1.21.1-1.11.4.jar"
+                  },
+                  {
+                      "path":  "mods/enchdesc-neoforge-1.21.1-21.1.10.jar",
+                      "sha256":  "9424c9aff4edf4d8730c931df4253138aeaee745ec839af7078d292bb4eeaa16",
+                      "size":  82629,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/enchdesc-neoforge-1.21.1-21.1.10.jar"
+                  },
+                  {
+                      "path":  "mods/endermanoverhaul-neoforge-1.21.1-2.0.3.jar",
+                      "sha256":  "fe6c04dcfdbb8815058ebf1102d64cb4c86060a0a1b7350121e4a976d4a92248",
+                      "size":  1330403,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/endermanoverhaul-neoforge-1.21.1-2.0.3.jar"
+                  },
+                  {
+                      "path":  "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
+                      "sha256":  "84c22f2be06ee6bfab265a443e075225878bba9f408843030dc6de3152e9dedb",
+                      "size":  567827,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/entity_model_features-3.2.4-1.21-neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/entity_texture_features_1.21-neoforge-7.1.jar",
+                      "sha256":  "b2e396543c678b8378a2d5557a0cd3d24790364bff7e96edaf17921112d6176b",
+                      "size":  752334,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/entity_texture_features_1.21-neoforge-7.1.jar"
+                  },
+                  {
+                      "path":  "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+                      "sha256":  "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02",
+                      "size":  1585287,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/entityculling-neoforge-1.10.5-mc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/EW-NeoForge-1.21.1-1.0.0.jar",
+                      "sha256":  "fca02c0a53f761867c8ec4f9d45f2eaf535c795017e8249ed5ed4e915cc12d62",
+                      "size":  425681,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/EW-NeoForge-1.21.1-1.0.0.jar"
+                  },
+                  {
+                      "path":  "mods/FarmersDelight-1.21.1-1.3.2.jar",
+                      "sha256":  "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7",
+                      "size":  3163042,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/FarmersDelight-1.21.1-1.3.2.jar"
+                  },
+                  {
+                      "path":  "mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+                      "sha256":  "c93500aa25eaa7bc473e753b8abf4234e7c46713d50bb82b30383ee47e646f5a",
+                      "size":  10413,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/ferritecore-7.0.3-neoforge.jar",
+                      "sha256":  "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
+                      "size":  121559,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/ferritecore-7.0.3-neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/formations-1.0.4-neoforge-mc1.21.jar",
+                      "sha256":  "2d9b50575fdf42e59d5dacda23ce5d01fc5cb19db02a1278329e3ad40893848e",
+                      "size":  287525,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/formations-1.0.4-neoforge-mc1.21.jar"
+                  },
+                  {
+                      "path":  "mods/formationsnether-1.0.5-mc1.21+.jar",
+                      "sha256":  "5a2072de5d94ebf6230803c73af2f2de7374263efc068ce50e8fb6fc93336505",
+                      "size":  942046,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/formationsnether-1.0.5-mc1.21%2B.jar"
+                  },
+                  {
+                      "path":  "mods/frightsdelight-neoforge-1.21.1-1.4.8.jar",
+                      "sha256":  "ab81a88846b7b1efc6c7f9e3fff0ee2762e626e7b9c742bd90f9c17a484dd01d",
+                      "size":  968074,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/frightsdelight-neoforge-1.21.1-1.4.8.jar"
+                  },
+                  {
+                      "path":  "mods/fusion-1.3.4-neoforge-mc1.21.1.jar",
+                      "sha256":  "2288b28b35c815ba6f79d3e962362dff969ff81b631f53256b16bb465d5ee92e",
+                      "size":  884198,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/fusion-1.3.4-neoforge-mc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/fzzy_config-0.7.6+1.21+neoforge.jar",
+                      "sha256":  "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050",
+                      "size":  2369895,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar"
+                  },
+                  {
+                      "path":  "mods/geckolib-neoforge-1.21.1-4.9.1.jar",
+                      "sha256":  "38c73035d1e8c143610fa76550b0472ea46f8b75fcaf2a14574ebf47517b8d02",
+                      "size":  630581,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/geckolib-neoforge-1.21.1-4.9.1.jar"
+                  },
+                  {
+                      "path":  "mods/ghosts-neoforge-1.21.1-1.3.4.jar",
+                      "sha256":  "fc0641e10187b3cfadb93e969d1d61ea5c5c93401af22bd1682ab20f62bd08d0",
+                      "size":  708088,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/ghosts-neoforge-1.21.1-1.3.4.jar"
+                  },
+                  {
+                      "path":  "mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+                      "sha256":  "59d2a3fb3d6877e43018fd6a2b199d526074a864276a5f49091409a1cdc62fae",
+                      "size":  90717,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
+                  },
+                  {
+                      "path":  "mods/golemoverhaul-neoforge-1.21.1-1.1.0.jar",
+                      "sha256":  "c9cee3a7e7c7f4556117d17a617afba7dd7d43a9351742f3bf490efc37479b25",
+                      "size":  1033740,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/golemoverhaul-neoforge-1.21.1-1.1.0.jar"
+                  },
+                  {
+                      "path":  "mods/handcrafted-neoforge-1.21.1-4.0.3.jar",
+                      "sha256":  "6f2a776fb28ed07d370899814e5e711fbeebe31396097d78a3b550439b364948",
+                      "size":  7132842,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/handcrafted-neoforge-1.21.1-4.0.3.jar"
+                  },
+                  {
+                      "path":  "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+                      "sha256":  "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0",
+                      "size":  368598,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/immersive_melodies-neoforge-0.6.4+1.21.1.jar",
+                      "sha256":  "a6bfb284b3def1e34d62f8cfb0d63dff5683f2a98081b4d9a76580b806ae3972",
+                      "size":  5521192,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/immersive_melodies-neoforge-0.6.4%2B1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
+                      "sha256":  "6b914e305f27962a91d49a659b77eb65f47acee9d79930801b4fc1d3e474c8a4",
+                      "size":  217081,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/ImmersiveUI-NEOFORGE-0.3.3%2B1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/interiors-1.21.1-neoforge-0.6.1.jar",
+                      "sha256":  "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5",
+                      "size":  486912,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/interiors-1.21.1-neoforge-0.6.1.jar"
+                  },
+                  {
+                      "path":  "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+                      "sha256":  "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
+                      "size":  2438548,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/iris-neoforge-1.8.12%2Bmc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
+                      "sha256":  "a010b32a31f59110cc0addcbe789ce42e76131bb131ede73b0e078e736fd3c68",
+                      "size":  24037,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar"
+                  },
+                  {
+                      "path":  "mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+                      "sha256":  "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d",
+                      "size":  725742,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/Jade-1.21.1-NeoForge-15.10.5.jar"
+                  },
+                  {
+                      "path":  "mods/jei-1.21.1-neoforge-19.27.0.343.jar",
+                      "sha256":  "137f60018968a50c6f00e3a8ca9be790391792d2f3e6eff66237f2e9b3bc1353",
+                      "size":  1529892,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/jei-1.21.1-neoforge-19.27.0.343.jar"
+                  },
+                  {
+                      "path":  "mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+                      "sha256":  "83f1701f7802d4355e57f73c2751b29e4b760a4e2a18427504bbd9ce7090a0c1",
+                      "size":  43798,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+                      "sha256":  "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd",
+                      "size":  618842,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/konkrete_neoforge_1.9.9_MC_1.21.jar"
+                  },
+                  {
+                      "path":  "mods/kotlinforforge-5.12.0-all.jar",
+                      "sha256":  "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139",
+                      "size":  7279264,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/kotlinforforge-5.12.0-all.jar"
+                  },
+                  {
+                      "path":  "mods/kubejs-create-neoforge-2101.3.1-build.18.jar",
+                      "sha256":  "9051fd08349850cb9b28845554246ef4f2c976892835a704ee27dcb7c8bfd7a1",
+                      "size":  38629,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/kubejs-create-neoforge-2101.3.1-build.18.jar"
+                  },
+                  {
+                      "path":  "mods/kubejs-neoforge-2101.7.2-build.368.jar",
+                      "sha256":  "01767bb677a9c4a8f318717c4c21bca7e7ef80995603403a551068a0e064e740",
+                      "size":  2281720,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/kubejs-neoforge-2101.7.2-build.368.jar"
+                  },
+                  {
+                      "path":  "mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
+                      "sha256":  "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757",
+                      "size":  774220,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/lithium-neoforge-0.15.4%2Bmc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/lithostitched-1.7.12-neoforge-21.1.jar",
+                      "sha256":  "e18cae8aaef95f7058a16c05705c6e78a4b33a00bcf9189e96ed8a8785fb9647",
+                      "size":  852287,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/lithostitched-1.7.12-neoforge-21.1.jar"
+                  },
+                  {
+                      "path":  "mods/lootr-neoforge-1.21.1-1.11.37.121.jar",
+                      "sha256":  "ba02303c6dfec4658a17d1cdc743c8f5335799ed8b2f2103dc95f896745b1262",
+                      "size":  982683,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/lootr-neoforge-1.21.1-1.11.37.121.jar"
+                  },
+                  {
+                      "path":  "mods/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+                      "sha256":  "070b817d3282760d9789b22ce13779613c8b558e02012fd5884d343175d88fd9",
+                      "size":  661387,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/mcw-bridges-3.1.2-mc1.21.1neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+                      "sha256":  "87261e309f5e10c9910169d5acbba613cab3a2d2270698b0bd47e657a45b0518",
+                      "size":  1190404,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/mcw-doors-1.1.5-mc1.21.1neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+                      "sha256":  "819fda8059b210e9de8b9275c8b8e0d931054af5a5ad47771c72d9fd4ab85e88",
+                      "size":  2080436,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/mcw-furniture-3.4.1-mc1.21.1neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/mcw-holidays-1.1.2-mc1.21.1neoforge.jar",
+                      "sha256":  "f972b8d62ce77539129015732eb2e2d2d600cc036bf2cfbd7491b9d66e199350",
+                      "size":  1012915,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/mcw-holidays-1.1.2-mc1.21.1neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+                      "sha256":  "b27cd68a7673874b0f6d765bdef2a022666cc07ca0e5057209a16d1a535da9e4",
+                      "size":  525744,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/mcw-lights-1.1.5-mc1.21.1neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+                      "sha256":  "e4b0e5a5b67decc2285e71f017fb4f60284796fa0838de3edeaf6b7cb0395735",
+                      "size":  673871,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+                      "sha256":  "f04b51518f75c8a7d5fe1be5589dbcb8a7b0d4f67373ca903578804d971b1286",
+                      "size":  777742,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+                      "sha256":  "1408d46bc2e7515b25b4da8393f8dbb3d79bcd9fb6d51fcf26fe84734c2597af",
+                      "size":  572870,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/melody_neoforge_1.0.10_MC_1.21.jar",
+                      "sha256":  "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871",
+                      "size":  36096,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/melody_neoforge_1.0.10_MC_1.21.jar"
+                  },
+                  {
+                      "path":  "mods/midnightlib-neoforge-1.9.3+1.21.1.jar",
+                      "sha256":  "76775d3a3f3a6a0304330cdd6a810944babc9bd7ebbdefa24ec3346a7c62a703",
+                      "size":  61217,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/midnightlib-neoforge-1.9.3%2B1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/modelfix-1.21-1.10.jar",
+                      "sha256":  "ee774b72135450ef9db1c7a75837304f30d05c3541e3a348c4f5769ab0f04912",
+                      "size":  47035,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/modelfix-1.21-1.10.jar"
+                  },
+                  {
+                      "path":  "mods/modernfix-neoforge-5.27.14+mc1.21.1.jar",
+                      "sha256":  "efc89cb7d22b932ecad19777373688035a1c444443abe8e56d236c44b59c0301",
+                      "size":  589839,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/modernfix-neoforge-5.27.14%2Bmc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/monolib-neoforge-1.21.1-4.0.2.jar",
+                      "sha256":  "13b3806a99673cdfbc86d675a0c82b380e2f372e8cbacc88d5148885498a46e3",
+                      "size":  167568,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/monolib-neoforge-1.21.1-4.0.2.jar"
+                  },
+                  {
+                      "path":  "mods/moonlight-neoforge-1.21.1-3.0.20.jar",
+                      "sha256":  "4f787e33ca53e44824987cda208fd9c85ddb6b297a681222c66323ea6549b3ee",
+                      "size":  1610508,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/moonlight-neoforge-1.21.1-3.0.20.jar"
+                  },
+                  {
+                      "path":  "mods/moredelight-26.05.20a-1.21-neoforge.jar",
+                      "sha256":  "7b261107157f8fc3273bf75707dbf4b32e3f7d4c1ca116f4bad8b45984ccd83a",
+                      "size":  141933,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/moredelight-26.05.20a-1.21-neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+                      "sha256":  "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b",
+                      "size":  73938,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+                  },
+                  {
+                      "path":  "mods/mowziesmobs-1.21.1-1.8.2.jar",
+                      "sha256":  "b8e7e39fb6430326de7fbb193db56588ee8bd04d0054527924fe588f37131e4f",
+                      "size":  36042925,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/mowziesmobs-1.21.1-1.8.2.jar"
+                  },
+                  {
+                      "path":  "mods/mru-1.0.19+LTS+1.21.1+neoforge.jar",
+                      "sha256":  "ed025100de31f5635d48a5a0cc4bc9c701d885bf3777e0c2ad8af5f2cad4601a",
+                      "size":  243953,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/mru-1.0.19%2BLTS%2B1.21.1%2Bneoforge.jar"
+                  },
+                  {
+                      "path":  "mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+                      "sha256":  "0e249ac11b2f916c5570d9679e188da652fa5664ba9cdb7be5dc9ff69497539c",
+                      "size":  224657,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/Necronomicon-NeoForge-1.6.0+1.21.jar",
+                      "sha256":  "63c3057fd28bf9e4a94ffe84f53dd20d9e7172b3e4afdf1b989213935d4aaf14",
+                      "size":  29865,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/Necronomicon-NeoForge-1.6.0%2B1.21.jar"
+                  },
+                  {
+                      "path":  "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+                      "sha256":  "242267afa324352130adb2263a5667e421c6f4c573ad0dfe0565971255ea5a1e",
+                      "size":  211972,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/netherportalfix-neoforge-1.21.1-21.1.1.jar"
+                  },
+                  {
+                      "path":  "mods/new_slab_variants-merged-1.21.1-3.0.1.jar",
+                      "sha256":  "f48760ae3d0aea4dd2164e6ad8244be00046b0772f5c887207ec5804df96b708",
+                      "size":  1287430,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/new_slab_variants-merged-1.21.1-3.0.1.jar"
+                  },
+                  {
+                      "path":  "mods/nightlights-neoforge-1.3.0.jar",
+                      "sha256":  "6f66e2a1b5adf34b5815cadb337a8a2cabd7adcbefed590aac36d283ebe3f382",
+                      "size":  440917,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/nightlights-neoforge-1.3.0.jar"
+                  },
+                  {
+                      "path":  "mods/Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar",
+                      "sha256":  "ad4abc829b00061d4e162dee0dfa74219b3474d7f21385388aca8d5f27bf23d0",
+                      "size":  23830,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/Not%20Enough%20Recipe%20Book-NEOFORGE-0.4.3%2B1.21.jar"
+                  },
+                  {
+                      "path":  "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
+                      "sha256":  "a8705202193813de291195ad6bbd03101c4ddc1ab2878aadb018ab92f903999f",
+                      "size":  1939625,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/notenoughcrashes-neoforge-4.4.9+1.21.1.jar",
+                      "sha256":  "5e26339287e4cd21e1be00d52088e3b5f0cab176eac967acd7404115c6ecd22f",
+                      "size":  598916,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/notenoughcrashes-neoforge-4.4.9%2B1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/OctoLib-NEOFORGE-0.6.2+1.21.jar",
+                      "sha256":  "92ba07d9d9e55a65421f3c3f203c72fe5149cb024d5277267e81d812e11a7f38",
+                      "size":  544378,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/OctoLib-NEOFORGE-0.6.2%2B1.21.jar"
+                  },
+                  {
+                      "path":  "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+                      "sha256":  "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d",
+                      "size":  1221583,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar"
+                  },
+                  {
+                      "path":  "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+                      "sha256":  "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f",
+                      "size":  46623,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+                  },
+                  {
+                      "path":  "mods/Paraglider-neoforge-21.1.5.jar",
+                      "sha256":  "2f084b728383d9de7e9c652c3a92cad086e0b38f131b61f8900d25ba18734e44",
+                      "size":  658184,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/Paraglider-neoforge-21.1.5.jar"
+                  },
+                  {
+                      "path":  "mods/particle_core-0.3.3+1.21+neoforge.jar",
+                      "sha256":  "38c05981d1dc8428c7ab1130b9ec7f05bca1b70f909aba9c454c9611702a8dda",
+                      "size":  138375,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/particle_core-0.3.3%2B1.21%2Bneoforge.jar"
+                  },
+                  {
+                      "path":  "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+                      "sha256":  "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993",
+                      "size":  646777,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/Patchouli-1.21.1-93-NEOFORGE.jar"
+                  },
+                  {
+                      "path":  "mods/Pehkui-3.8.3+1.21-neoforge.jar",
+                      "sha256":  "50aab835b0f98dedf33383483b021789c2991786f02b00e6d1b7152dc43570ec",
+                      "size":  507568,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/Pehkui-3.8.3%2B1.21-neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+                      "sha256":  "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92",
+                      "size":  203149,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/player-animation-lib-forge-2.0.4%2B1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/plushie_buddies-1.0.1-neofroge-1.21.1.jar",
+                      "sha256":  "3f62807242a5ac21840b75c91c1a3e9883ce2975483a0aaf43346a45fc6f70b8",
+                      "size":  462152,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/plushie_buddies-1.0.1-neofroge-1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/polymorph-neoforge-1.1.0+1.21.1.jar",
+                      "sha256":  "bec8118978adeb052de9c4eaf9a595830621d82515a764f32f9c8a4dd52ab94b",
+                      "size":  174972,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/polymorph-neoforge-1.1.0%2B1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/prickle-neoforge-1.21.1-21.1.11.jar",
+                      "sha256":  "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167",
+                      "size":  84812,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/prickle-neoforge-1.21.1-21.1.11.jar"
+                  },
+                  {
+                      "path":  "mods/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+                      "sha256":  "00069866c4c6bb67ee5192d1b425d46e6a1601dc598e61bd10b67ba5fa8b029c",
+                      "size":  1425176,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar"
+                  },
+                  {
+                      "path":  "mods/reeses-sodium-options-neoforge-2.2.0+mc1.21.1.jar",
+                      "sha256":  "b1d1948753aeb6a300716c9f0dd48cfa25cd1b0091bae5cb96d9df15ceee0752",
+                      "size":  236897,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/reeses-sodium-options-neoforge-2.2.0%2Bmc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/regions-unexplored-0.6.1-neoforge-21.1.jar",
+                      "sha256":  "8eac74e63ba6bc9c3aea459adcdeba58d7918d296d0775c6f51777fe2ee1967a",
+                      "size":  6365928,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/regions-unexplored-0.6.1-neoforge-21.1.jar"
+                  },
+                  {
+                      "path":  "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+                      "sha256":  "25b4f3502d25c535004acd4a9420272fff01d2f1e2df352239fec93fdab005d4",
+                      "size":  341009,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/resourcefulconfig-neoforge-1.21-3.0.11.jar"
+                  },
+                  {
+                      "path":  "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
+                      "sha256":  "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261",
+                      "size":  484332,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/resourcefullib-neoforge-1.21-3.0.12.jar"
+                  },
+                  {
+                      "path":  "mods/rhino-2101.2.7-build.85.jar",
+                      "sha256":  "e0e9b0e78edd380440266c0f4ea8d489dac851ef075a4566a66a6dae2f7bbb66",
+                      "size":  882075,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/rhino-2101.2.7-build.85.jar"
+                  },
+                  {
+                      "path":  "mods/Ribbits-1.21.1-NeoForge-4.1.6.jar",
+                      "sha256":  "794223f5a91b8b80a962754b5180ec3e2472db6941e9b6c1cdd49324df628389",
+                      "size":  2215572,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/Ribbits-1.21.1-NeoForge-4.1.6.jar"
+                  },
+                  {
+                      "path":  "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+                      "sha256":  "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
+                      "size":  77326,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/Searchables-neoforge-1.21.1-1.0.2.jar"
+                  },
+                  {
+                      "path":  "mods/simplehats-neoforge-1.21.1-0.4.0.jar",
+                      "sha256":  "227c366601509a62493c6b0a7ef3b3ff8941d2d85a1714fc18835e2a55021864",
+                      "size":  1400084,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/simplehats-neoforge-1.21.1-0.4.0.jar"
+                  },
+                  {
+                      "path":  "mods/sit-1.21.1-1.4.jar",
+                      "sha256":  "a726385d1c6781f93906dce38d125fe5f4da32b10ae5601bf855773939603c04",
+                      "size":  14031,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/sit-1.21.1-1.4.jar"
+                  },
+                  {
+                      "path":  "mods/sliceanddice-forge-4.2.4.jar",
+                      "sha256":  "c3bd743a73eed3de14f6be5221fe68655cfeed0749f8f467f2ce2012ed1416bd",
+                      "size":  406699,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/sliceanddice-forge-4.2.4.jar"
+                  },
+                  {
+                      "path":  "mods/SOB-NeoForge-1.21.1-1.0.0.jar",
+                      "sha256":  "1661023822d0e1651480e0b26bbb037a3013e5d2d3134b4d0f88141a32a72e30",
+                      "size":  553024,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/SOB-NeoForge-1.21.1-1.0.0.jar"
+                  },
+                  {
+                      "path":  "mods/sodium-extra-neoforge-0.9.0+mc1.21.1.jar",
+                      "sha256":  "281099015b522c24e0c078e85786af2abfb768a6a6d5fc6b1e5d911e54cf0dfe",
+                      "size":  437166,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/sodium-extra-neoforge-0.9.0%2Bmc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/sodiumleafculling-neoforge-1.0.1-1.21.1.jar",
+                      "sha256":  "39c48261ae34a26fcfbf0b64303a5afcc205cb40bb70b88941fced268f600e12",
+                      "size":  224869,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/sodiumleafculling-neoforge-1.0.1-1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+                      "sha256":  "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
+                      "size":  1162994,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/sodium-neoforge-0.6.13%2Bmc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/sounds-2.4.22+lts+1.21.1-neoforge.jar",
+                      "sha256":  "d3bda0a7a5b1f267747da182e788139da380f625eaf96a5c2a8fa5bcb8d908b7",
+                      "size":  8732437,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/spark-1.10.124-neoforge.jar",
+                      "sha256":  "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db",
+                      "size":  3642581,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/spark-1.10.124-neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/spawnanimations-v1.11.5-mc1.17-26.2.9-mod.jar",
+                      "sha256":  "996268e024c6fd0fb252400d4528caf5201a69c887b7ce1960b03d6335647df5",
+                      "size":  226189,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/spawnanimations-v1.11.5-mc1.17-26.2.9-mod.jar"
+                  },
+                  {
+                      "path":  "mods/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+                      "sha256":  "d22b6dfea6922cb534adb9f8c5d43e4a3c27c864e512951df801cb1435a4d4d8",
+                      "size":  558371,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar"
+                  },
+                  {
+                      "path":  "mods/supplementaries-neoforge-1.21.1-3.6.8.jar",
+                      "sha256":  "0dd0445af35aa15ad012833c4b8024d2ed70320d1ace0316d2f5b684b06a997d",
+                      "size":  13302516,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/supplementaries-neoforge-1.21.1-3.6.8.jar"
+                  },
+                  {
+                      "path":  "mods/suppsquared-neoforge-1.21-1.2.18.jar",
+                      "sha256":  "df0757828d562557e69bf00cdd43532193e292069303b8c1f47216d759c31e0c",
+                      "size":  752062,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/suppsquared-neoforge-1.21-1.2.18.jar"
+                  },
+                  {
+                      "path":  "mods/t_and_t-neoforge-fabric-1.13.9+1.21.1.jar",
+                      "sha256":  "04e3a5f6e9aa83b2f305e836ed6bceb656c7a6cae8d945415fd8d55bc2450696",
+                      "size":  3597353,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/t_and_t-neoforge-fabric-1.13.9%2B1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+                      "sha256":  "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9",
+                      "size":  120365,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+                  },
+                  {
+                      "path":  "mods/Terralith_1.21.1_v2.6.2_Neoforge.jar",
+                      "sha256":  "d38bd304897731b42f6c013cdc07e082e74411e80c74aabcee385251beb3b546",
+                      "size":  2814865,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/Terralith_1.21.1_v2.6.2_Neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/tidal-towns-1.3.4.jar",
+                      "sha256":  "691dc0d8ad68bc5f02d14221687286e496e5ee41314c1f282a2d51e927d0d5e7",
+                      "size":  110050,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/tidal-towns-1.3.4.jar"
+                  },
+                  {
+                      "path":  "mods/travelersbackpack-neoforge-1.21.1-10.1.36.jar",
+                      "sha256":  "35468c8e00f77ec6649c45d9af1ea93a8f649638c7e70f9e80cdae7fab006112",
+                      "size":  1421133,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/travelersbackpack-neoforge-1.21.1-10.1.36.jar"
+                  },
+                  {
+                      "path":  "mods/vanillin-neoforge-1.21.1-1.1.3.jar",
+                      "sha256":  "c0183973c7833ba97bf473f394cad3462c21f29ac0c87aad18005d7fe6bc32ad",
+                      "size":  877578,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/vanillin-neoforge-1.21.1-1.1.3.jar"
+                  },
+                  {
+                      "path":  "mods/visitingvillagers-1.0.2-mc1.21.1.jar",
+                      "sha256":  "0055b975103ba242a057694cbd40384c6d1b8f684277a4de90815fa7fd34f645",
+                      "size":  285247,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/visitingvillagers-1.0.2-mc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/watut-neoforge-1.21.0-1.2.7.jar",
+                      "sha256":  "b1aac4b9832e16439ee86f27814f7b6a42f2f6bea0ea6949dfffffcd0599d88c",
+                      "size":  432269,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/watut-neoforge-1.21.0-1.2.7.jar"
+                  },
+                  {
+                      "path":  "mods/waveycapes-neoforge-1.10.2-mc1.21.1.jar",
+                      "sha256":  "54b6dc54a51cf174b6fb750a28393171a395052b2d95b0241bbff207b146ebdf",
+                      "size":  1848323,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/waveycapes-neoforge-1.10.2-mc1.21.1.jar"
+                  },
+                  {
+                      "path":  "mods/waystones-neoforge-1.21.1-21.1.34.jar",
+                      "sha256":  "1d9e5292ec49d99af9d3a420de2f3df847816aec081d2068c9e6017e4e6bfc32",
+                      "size":  878801,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/waystones-neoforge-1.21.1-21.1.34.jar"
+                  },
+                  {
+                      "path":  "mods/xaerominimap-neoforge-1.21.1-26.1.0.jar",
+                      "sha256":  "6bd6cbab01ff57b9ba2fbfee18f9605593101f15d80e8d19dc59c385d2535ccc",
+                      "size":  2138254,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/xaerominimap-neoforge-1.21.1-26.1.0.jar"
+                  },
+                  {
+                      "path":  "mods/xaeroworldmap-neoforge-1.21.1-1.41.2.jar",
+                      "sha256":  "36b163fe8be4c2e800668c49294473da61eb360d821db675a2a948f8cc7c3d2b",
+                      "size":  1387921,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/xaeroworldmap-neoforge-1.21.1-1.41.2.jar"
+                  },
+                  {
+                      "path":  "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+                      "sha256":  "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f",
+                      "size":  1118651,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar"
+                  },
+                  {
+                      "path":  "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+                      "sha256":  "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca",
+                      "size":  388678,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/YungsApi-1.21.1-NeoForge-5.1.6.jar"
+                  },
+                  {
+                      "path":  "mods/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar",
+                      "sha256":  "aa94ae3e7fdacb469459bf45be60c35bebfebe0488a79e31c7686d746939701d",
+                      "size":  392794,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar"
+                  },
+                  {
+                      "path":  "mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+                      "sha256":  "2c3191ad447092cc7873a06e92f16bd3e2ff9dc31e93268b8893d06dd89e1fd6",
+                      "size":  905839,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar"
+                  },
+                  {
+                      "path":  "mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+                      "sha256":  "8005f1ea798d09fc05dad07a21ed1f393a523a718197cdbd37b1ce6d9a17e4a4",
+                      "size":  398130,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar"
+                  },
+                  {
+                      "path":  "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+                      "sha256":  "a0d57b78c7a1891796f342b1f09c214bc27bedf0a3a894f029dfdb2db9f813d0",
+                      "size":  795839,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"
+                  },
+                  {
+                      "path":  "mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+                      "sha256":  "5625930dfb3240820d6e4ecf55fff0c39f70ce782fad117a4d418251184c7be0",
+                      "size":  493967,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
+                  },
+                  {
+                      "path":  "mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+                      "sha256":  "5450a64a7036237f449496837e08f3e5b3aa1d7974a10df43944172def75d8ff",
+                      "size":  609639,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar"
+                  },
+                  {
+                      "path":  "mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+                      "sha256":  "cdcf8fe0e08c75261048d43c6ed4898972d23e096dd04a2524c136f06416ab02",
+                      "size":  1025571,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar"
+                  },
+                  {
+                      "path":  "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+                      "sha256":  "a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58",
+                      "size":  461244,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar"
+                  },
+                  {
+                      "path":  "mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+                      "sha256":  "888b1e6d1ada21982a75abfb4afb040c9bc2cc68777ec5fcd1199b978e3d4f8d",
+                      "size":  174789,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
+                  },
+                  {
+                      "path":  "mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+                      "sha256":  "bf93a85422a6b457358c3b56352641a97ec09cc37dec18b2cedcac2bd1ff9bec",
+                      "size":  136820,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar"
+                  },
+                  {
+                      "path":  "mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+                      "sha256":  "0cd26474e514f5dc3114aaf5ec7e049bcd285f0c5db191bb45223193f35df70d",
+                      "size":  198183,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar"
+                  },
+                  {
+                      "path":  "mods/zombieawareness-neoforge-1.21.0-1.13.2.jar",
+                      "sha256":  "8152f9fa4c0c3cdb6541ac46d852902617e80ccd121cfa43412c0b56045b40ae",
+                      "size":  304511,
+                      "url":  "https://kerbi151.github.io/Laucher/modpack/files/mods/zombieawareness-neoforge-1.21.0-1.13.2.jar"
+                  }
               ]
 }
